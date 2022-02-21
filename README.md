@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on [PwC India](https://www.pwc.in/).
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 📫 How to reach me: [LinkedIn - Aadarsh Srivastava](https://www.linkedin.com/in/aadarsh-srivastava-3470b0128/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 3 hours watching to YouTube videos every day.
 
