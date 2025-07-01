@@ -13,7 +13,7 @@
 <br/>
 
 
-- 🔭 I’m currently working for [ZoloStays](https://zolostays.com/).
+- 🔭 I’m currently working for [MakeMyTrip](https://www.makemytrip.com/).
 - 📫 How to reach me: [LinkedIn - Aadarsh Srivastava](https://www.linkedin.com/in/aadarsh-srivastava-3470b0128/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 3 hours watching to YouTube videos every day.
