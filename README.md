@@ -1,96 +1,73 @@
-<!-- Typing SVG Banner -->
+<h1 align="center">Aadarsh Srivastava</h1>
+<p align="center"><i>Software engineer building clear product systems around how people actually work.</i></p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1A7FFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Aadarsh+Srivastava!;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <a href="https://aadarsh.online/">aadarsh.online</a> ·
+  <a href="https://www.linkedin.com/in/aadarsh-srivastava-3470b0128/">LinkedIn</a> ·
+  <a href="https://github.com/mr-srivastava">GitHub</a>
 </p>
 
-<!-- Social Links and Badges -->
+<br/>
+
+I work across interfaces, workflows, and the systems behind them — enterprise, startups, and consumer products. A few jobs later, I have opinions. Currently building at **MakeMyTrip**, based in India.
+
+<br/>
+
+## Career
+
+| | Role | Duration |
+| --- | --- | --- |
+| `MakeMyTrip` | Senior Software Engineer II | `Jan 2025 — Present` |
+| `Zolo` | Senior Software Engineer II → SDE II | `Jul 2022 — Dec 2024` |
+| `PwC India` | Associate, Full Stack Developer | `Sep 2020 — Jun 2022` |
+
+<br/>
+
+## Projects
+
+| | | |
+| --- | --- | --- |
+| **[trade-flow](https://github.com/mr-srivastava/trade-flow)** `B2B Platform` | Syntara — a trade workflow platform: catalogues, enquiries, supplier and customer workflows, documents, and AI-assisted tools. | [live](https://syntara-trade.vercel.app/) |
+| **[travel-shorts-curator](https://github.com/mr-srivastava/travel-shorts-curator)** `Consumer` | Next.js + shadcn/ui app that surfaces travel-related YouTube Shorts. | [live](https://travel-shorts-curator.vercel.app) |
+| **[kharcha-paani](https://github.com/mr-srivastava/kharcha-paani)** `Consumer` | Manage expenses and split bills. | [live](https://kharcha-paani.netlify.app/) |
+| **[typing-speedtest](https://github.com/mr-srivastava/typing-speedtest)** `Tool` | Test typing speed and accuracy. | [live](https://octane-type.vercel.app/) |
+| **[portfolio](https://github.com/mr-srivastava/portfolio)** `Personal` | Writing, work history, and project case studies. | [live](https://aadarsh.online) |
+
+<br/>
+
+## Stack
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/aadarsh-srivastava-3470b0128/">
-    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://github.com/mr-srivastava">
-    <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/aadarsh-srivastava-3470b0128/">
-    <img src="https://img.shields.io/badge/-Aadarsh-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/mr-srivastava">
-    <img src="https://img.shields.io/github/followers/mr-srivastava?label=follow&style=social" />
-  </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=mr-srivastava&label=Views&color=blue&style=plastic" alt="mr-srivastava" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,python,fastapi,mongodb,supabase,docker,aws,gcp,git,vercel&theme=dark" alt="TypeScript, React, Next.js, Tailwind CSS, Node.js, Python, FastAPI, MongoDB, Supabase, Docker, AWS, GCP, Git, Vercel" />
 </p>
 
----
-
-## 👋 About Me
-
-- 🔭 Currently working at **[MakeMyTrip](https://www.makemytrip.com/)**
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/aadarsh-srivastava-3470b0128/)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I watch *at least* 3 hours of YouTube every day
-
----
-
-## 🛠️ Languages & Tools
-<p>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" />&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" alt="TypeScript" />&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" />&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" />&nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" />
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorg-sh.vercel.sh/api?username=mr-srivastava&show_icons=true&theme=light&line_height=27&cache_seconds=86400" alt="Aadarsh's GitHub Stats"/>
-  <img src="https://github-readme-stats-git-masterorg-sh.vercel.sh/api/top-langs/?username=mr-srivastava&theme=light&hide_langs_below=1&cache_seconds=86400" alt="Top Languages"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats-git-masterorg-sh.vercel.sh?user=mr-srivastava&theme=light&cache_seconds=86400" alt="GitHub Streak Stats" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-srivastava&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/mr-srivastava/typing-speedtest">
-    <img src="https://github-readme-stats-git-masterorg-sh.vercel.sh/api/pin/?username=mr-srivastava&repo=typing-speedtest&theme=light&cache_seconds=86400" alt="Typing Speedtest Repo Card" />
-  </a>
-</p>
-
----
-
-## 😂 Dev Jokes
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
-
----
+<br/>
 
 <details>
-  <summary>More about me</summary>
-  <ul>
-    <li>🌱 Always learning new tech & frameworks</li>
-    <li>🤝 Open to collaborations</li>
-    <li>🎨 Hobbies: Drawing, music, exploring tech</li>
-  </ul>
-</details>
+<summary><code>github stats</code></summary>
+<br/>
+
+<!-- <picture> + prefers-color-scheme keeps the cards readable in both GitHub themes. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=mr-srivastava&show_icons=true&theme=tokyonight&hide_border=true&line_height=27&cache_seconds=86400" />
+    <img height="170" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=mr-srivastava&show_icons=true&theme=default&hide_border=true&line_height=27&cache_seconds=86400" alt="Aadarsh's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=mr-srivastava&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+    <img height="170" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=mr-srivastava&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
+  </picture>
+</p>
 
 <p align="center">
-  <b>Show some ❤️ by starring repositories!</b>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mr-srivastava&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+    <img src="https://streak-stats.demolab.com?user=mr-srivastava&theme=default&hide_border=true&cache_seconds=86400" alt="GitHub streak stats" />
+  </picture>
 </p>
+
+</details>
+
+<br/>
+
+<p align="center"><sub>Always learning, open to collaborating — reach out on <a href="https://www.linkedin.com/in/aadarsh-srivastava-3470b0128/">LinkedIn</a>.</sub></p>
